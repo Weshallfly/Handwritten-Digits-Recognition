@@ -5,11 +5,11 @@ DATA
 The MNIST Handwritten Digit Recognition Dataset contains 60,000 training and 10,000 testing labelled handwritten digit pictures. Each picture is 28 pixels in height and 28 pixels wide, for a total of 784 (28×28) pixels. Each pixel has a single pixel value associated with it.
 
 # In brief what I have done
-Starting with some *EDA* in normalised data
+Starting with some **EDA** in normalised data
 
 Then starting with a simple **Feedforward Neural Network** with 2 hidden dense layers
 
-Hyperparametric Tuning
+**Hyperparametric Tuning**
 I have to find the best possible combination of hyperparameters in such a way that model is neither overfit nor underfit and giving a higher accuracy.
 
 Model have many hypreparameters  

@@ -1,3 +1,5 @@
+In this project, I have implemented a Feedforward Neural Network using TensorFlow and Keras to train a model  that recognizes handwritten digits.Following this, I tuned the hyperparameters of this model a bit and achieved higher accuracy. 
+
 # Handwritten-Digits-Recognition
 Handwritten digit recognition is the process to provide the ability to machines to recognize human handwritten digits.
 

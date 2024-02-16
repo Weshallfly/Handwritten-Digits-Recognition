@@ -6,7 +6,7 @@ Handwritten digit recognition is the process to provide the ability to machines 
 ### DATA
 The MNIST Handwritten Digit Recognition Dataset contains 60,000 training and 10,000 testing labelled handwritten digit pictures. Each picture is 28 pixels in height and 28 pixels wide, for a total of 784 (28×28) pixels. Each pixel has a single pixel value associated with it.
 
-### Steps in brief
+## Steps in brief
 Starting with some **EDA** in normalised data
 Then starting with a simple **Feedforward Neural Network** with 2 hidden dense layers
 
